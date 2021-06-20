@@ -1,0 +1,31 @@
+.chevron{
+    width: 8px;
+    fill: white;
+}
+
+.Button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ff7b00;
+    line-height: 15px;
+    color: white;
+    width: 135px;
+    position: relative;
+    float: right;
+    height: 43px;
+    margin-right: 24px;
+    cursor: pointer;
+}
+
+.ContentBtn{
+    font-size:15px;
+    margin-right: 5px;
+    text-transform: uppercase;
+    
+    
+}
+
+.counter{
+    margin-left: 5px;
+}
